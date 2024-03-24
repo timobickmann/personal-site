@@ -8,7 +8,7 @@ title: "About"
 I'm Timo, a passionate Fullstack Developer from Obermarsberg, Germany. My fascination with technology began in school, where I completed my high school diploma in Electrical Engineering. This led me to start studying Technical Computer Science after school. Currently doing a further education as a Web Developer at [DCI](https://digitalcareerinstitute.org/de/courses/web-development).
 
 ## Current Projects 🚀
-- In the midst of my final project at [CodeTriumvirat](https://github.com/orgs/CodeTriumvirat/repositories). We are working with a NextJS frontend and our VPS, where we host our BaaS and some other services. 
+- In the midst of my final project at [CodeTriumvirat](https://github.com/orgs/CodeTriumvirat/repositories). We are working with a NextJS frontend and a VPS at Hetzner, where we host our BaaS and some other services. 
 - On a personal note, I've started building my own website using Astro. This is intended to be a personal space on the web where I can write some blogs and how-tos whenever i feel like it.
 
 ## My Tech Stack 🛠
