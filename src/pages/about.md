@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# Hi there! 👋
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I'm Timo, a passionate Fullstack Developer from Obermarsberg, Germany. My fascination with technology began in school, where I completed my high school diploma in Electrical Engineering. This led me to start studying Technical Computer Science after school. Currently doing a further education as a Web Developer at [DCI](https://digitalcareerinstitute.org/de/courses/web-development).
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Current Projects 🚀
+- In the midst of my final project at [CodeTriumvirat](https://github.com/orgs/CodeTriumvirat/repositories). We are working with a NextJS frontend and our VPS, where we host our BaaS and some other services. 
+- On a personal note, I've started building my own website using Astro. This is intended to be a personal space on the web where I can write some blogs and how-tos whenever i feel like it.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## My Tech Stack 🛠
+- **Languages:** JavaScript, TypeScript, (rusty with Assembler, C and Python)
+- **Frontend:** React, Next.js, Svelte, Tailwind CSS, Astro, Lit, Vite
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase
+- **DevOps & Tools:** VPS, Docker, GitHub Actions, Nginx, Ubuntu, MacOS, Shell
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,tailwind,lit,vite,nodejs,express,mongodb,postgres,supabase,docker,github,githubactions,nginx,ubuntu,apple,bash,nextjs,ai,wordpress)](https://skillicons.dev)
 
-## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
