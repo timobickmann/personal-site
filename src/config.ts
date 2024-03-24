@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "personal-site-one-lyart.vercel.app", // replace this with your deployed domain
+  website: "https://personal-site-one-lyart.vercel.app", // replace this with your deployed domain
   author: "Timo Bickmann",
   desc: "A personal blog for webdev and tech stuff.",
   title: "Timos Tech Blog",
@@ -32,7 +32,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://linkedin.com/in/timobickmann/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
